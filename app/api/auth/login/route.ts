@@ -1,9 +1,9 @@
 
 import { NextResponse } from 'next/server';
-import { prisma } from '../../../../lib/db';
+import { prisma } from '../../../lib/db';
 import bcrypt from 'bcryptjs';
 import { z } from 'zod';
-import { setSession } from '../../../../lib/auth';
+import { setSession } from '../../../lib/auth';
 
 const schema = z.object({
   username: z.string().min(2).max(32),

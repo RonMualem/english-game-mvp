@@ -1,6 +1,6 @@
 
 import { NextResponse } from 'next/server';
-import { getSession } from '../../../../lib/auth';
+import { getSession } from '../../../lib/auth';
 
 export const runtime = 'nodejs'; // required for file handling
 

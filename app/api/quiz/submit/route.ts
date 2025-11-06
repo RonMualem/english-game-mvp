@@ -1,8 +1,8 @@
 
 import { NextResponse } from 'next/server';
-import { prisma } from '../../../../lib/db';
-import { getSession } from '../../../../lib/auth';
-import { computePoints } from '../../../../lib/game';
+import { prisma } from '../../../lib/db';
+import { getSession } from '../../../lib/auth';
+import { computePoints } from '../../../lib/game';
 
 export async function POST(req: Request) {
   const session = getSession();
