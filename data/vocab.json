@@ -1,0 +1,692 @@
+[
+  {
+    "he": "ישיבת סטטוס",
+    "en": "status meeting",
+    "topic": "Project Management",
+    "level": 3
+  },
+  {
+    "he": "מנהל פרויקט",
+    "en": "project manager",
+    "topic": "Emails",
+    "level": 2
+  },
+  {
+    "he": "עדכון",
+    "en": "update",
+    "topic": "Development",
+    "level": 3
+  },
+  {
+    "he": "תעדוף",
+    "en": "prioritization",
+    "topic": "Product",
+    "level": 2
+  },
+  {
+    "he": "גרסה",
+    "en": "release",
+    "topic": "Cloud",
+    "level": 1
+  },
+  {
+    "he": "דדליין",
+    "en": "deadline",
+    "topic": "Security",
+    "level": 3
+  },
+  {
+    "he": "תמחור",
+    "en": "pricing",
+    "topic": "Security",
+    "level": 3
+  },
+  {
+    "he": "הצעת מחיר",
+    "en": "quote",
+    "topic": "Emails",
+    "level": 2
+  },
+  {
+    "he": "לקוחות ארגוניים",
+    "en": "enterprise customers",
+    "topic": "Emails",
+    "level": 1
+  },
+  {
+    "he": "שימור לקוחות",
+    "en": "retention",
+    "topic": "Cloud",
+    "level": 2
+  },
+  {
+    "he": "שיעור נטישה",
+    "en": "churn rate",
+    "topic": "Product",
+    "level": 3
+  },
+  {
+    "he": "שיעור המרה",
+    "en": "conversion rate",
+    "topic": "Product",
+    "level": 1
+  },
+  {
+    "he": "מדדים",
+    "en": "metrics",
+    "topic": "Meetings",
+    "level": 1
+  },
+  {
+    "he": "תכנית רבעונית",
+    "en": "quarterly plan",
+    "topic": "Finance",
+    "level": 2
+  },
+  {
+    "he": "תמחול מאמץ",
+    "en": "effort estimation",
+    "topic": "Meetings",
+    "level": 1
+  },
+  {
+    "he": "תלות",
+    "en": "dependency",
+    "topic": "Project Management",
+    "level": 2
+  },
+  {
+    "he": "תיק באגים",
+    "en": "bug backlog",
+    "topic": "Product",
+    "level": 2
+  },
+  {
+    "he": "תיקון דחוף",
+    "en": "hotfix",
+    "topic": "Security",
+    "level": 3
+  },
+  {
+    "he": "סביבת ייצור",
+    "en": "production environment",
+    "topic": "Development",
+    "level": 1
+  },
+  {
+    "he": "סביבת בדיקות",
+    "en": "staging environment",
+    "topic": "Meetings",
+    "level": 3
+  },
+  {
+    "he": "פריסה",
+    "en": "deployment",
+    "topic": "Emails",
+    "level": 1
+  },
+  {
+    "he": "רגרסיה",
+    "en": "regression",
+    "topic": "Emails",
+    "level": 1
+  },
+  {
+    "he": "התראות",
+    "en": "alerts",
+    "topic": "Meetings",
+    "level": 2
+  },
+  {
+    "he": "שחזור נתונים",
+    "en": "data recovery",
+    "topic": "Finance",
+    "level": 3
+  },
+  {
+    "he": "מסד נתונים",
+    "en": "database",
+    "topic": "Project Management",
+    "level": 1
+  },
+  {
+    "he": "אופטימיזציה",
+    "en": "optimization",
+    "topic": "Workplace",
+    "level": 2
+  },
+  {
+    "he": "תור עדיפויות",
+    "en": "priority queue",
+    "topic": "Development",
+    "level": 1
+  },
+  {
+    "he": "תשתית",
+    "en": "infrastructure",
+    "topic": "Project Management",
+    "level": 2
+  },
+  {
+    "he": "ארכיטקטורה",
+    "en": "architecture",
+    "topic": "Emails",
+    "level": 3
+  },
+  {
+    "he": "יתירות",
+    "en": "redundancy",
+    "topic": "Product",
+    "level": 1
+  },
+  {
+    "he": "איזון עומסים",
+    "en": "load balancing",
+    "topic": "Project Management",
+    "level": 1
+  },
+  {
+    "he": "עלויות ענן",
+    "en": "cloud costs",
+    "topic": "Finance",
+    "level": 3
+  },
+  {
+    "he": "סקיילינג אוטומטי",
+    "en": "auto scaling",
+    "topic": "Development",
+    "level": 1
+  },
+  {
+    "he": "חוסן",
+    "en": "resilience",
+    "topic": "Emails",
+    "level": 1
+  },
+  {
+    "he": "תיעוד",
+    "en": "documentation",
+    "topic": "Finance",
+    "level": 1
+  },
+  {
+    "he": "ישיבת תכנון",
+    "en": "planning meeting",
+    "topic": "Sales",
+    "level": 2
+  },
+  {
+    "he": "ישיבת רטרו",
+    "en": "retrospective",
+    "topic": "Meetings",
+    "level": 3
+  },
+  {
+    "he": "הערכת סיכונים",
+    "en": "risk assessment",
+    "topic": "Workplace",
+    "level": 3
+  },
+  {
+    "he": "ניהול תצורה",
+    "en": "configuration management",
+    "topic": "Finance",
+    "level": 1
+  },
+  {
+    "he": "אימות",
+    "en": "authentication",
+    "topic": "Meetings",
+    "level": 2
+  },
+  {
+    "he": "הרשאות",
+    "en": "authorization",
+    "topic": "Product",
+    "level": 1
+  },
+  {
+    "he": "בדיקות יחידה",
+    "en": "unit tests",
+    "topic": "Sales",
+    "level": 2
+  },
+  {
+    "he": "כיסוי בדיקות",
+    "en": "test coverage",
+    "topic": "Development",
+    "level": 3
+  },
+  {
+    "he": "בדיקות עומס",
+    "en": "load testing",
+    "topic": "Finance",
+    "level": 3
+  },
+  {
+    "he": "מסלול אספקה",
+    "en": "delivery pipeline",
+    "topic": "Finance",
+    "level": 1
+  },
+  {
+    "he": "CI/CD",
+    "en": "CI/CD",
+    "topic": "Security",
+    "level": 3
+  },
+  {
+    "he": "דפוסי עיצוב",
+    "en": "design patterns",
+    "topic": "Cloud",
+    "level": 1
+  },
+  {
+    "he": "חוב טכני",
+    "en": "technical debt",
+    "topic": "Cloud",
+    "level": 2
+  },
+  {
+    "he": "תוחלת חיים",
+    "en": "lifecycle",
+    "topic": "Cloud",
+    "level": 2
+  },
+  {
+    "he": "מדד שביעות רצון",
+    "en": "satisfaction score",
+    "topic": "Finance",
+    "level": 1
+  },
+  {
+    "he": "קריאת לוגים",
+    "en": "log reading",
+    "topic": "Product",
+    "level": 3
+  },
+  {
+    "he": "חקר תקלות",
+    "en": "incident analysis",
+    "topic": "Sales",
+    "level": 1
+  },
+  {
+    "he": "פלייבוק",
+    "en": "playbook",
+    "topic": "Development",
+    "level": 2
+  },
+  {
+    "he": "גיבויים",
+    "en": "backups",
+    "topic": "Workplace",
+    "level": 1
+  },
+  {
+    "he": "ניהול גרסאות",
+    "en": "version control",
+    "topic": "Emails",
+    "level": 1
+  },
+  {
+    "he": "בקשת משיכה",
+    "en": "pull request",
+    "topic": "Meetings",
+    "level": 2
+  },
+  {
+    "he": "סקירת קוד",
+    "en": "code review",
+    "topic": "Cloud",
+    "level": 1
+  },
+  {
+    "he": "מסמך דרישות",
+    "en": "requirements document",
+    "topic": "Security",
+    "level": 1
+  },
+  {
+    "he": "התכנות",
+    "en": "feasibility",
+    "topic": "Project Management",
+    "level": 1
+  },
+  {
+    "he": "פריסייל",
+    "en": "presales",
+    "topic": "Meetings",
+    "level": 3
+  },
+  {
+    "he": "חומר שיווקי",
+    "en": "marketing collateral",
+    "topic": "Cloud",
+    "level": 1
+  },
+  {
+    "he": "שיחת מכירה",
+    "en": "sales call",
+    "topic": "Development",
+    "level": 3
+  },
+  {
+    "he": "סגירת עסקה",
+    "en": "closing a deal",
+    "topic": "Development",
+    "level": 2
+  },
+  {
+    "he": "דוח כספי",
+    "en": "financial report",
+    "topic": "Development",
+    "level": 1
+  },
+  {
+    "he": "רווחיות",
+    "en": "profitability",
+    "topic": "Emails",
+    "level": 1
+  },
+  {
+    "he": "תחזית",
+    "en": "forecast",
+    "topic": "Finance",
+    "level": 3
+  },
+  {
+    "he": "בקרת איכות",
+    "en": "quality assurance",
+    "topic": "Workplace",
+    "level": 1
+  },
+  {
+    "he": "משוב לקוח",
+    "en": "customer feedback",
+    "topic": "Product",
+    "level": 1
+  },
+  {
+    "he": "תיקוף",
+    "en": "validation",
+    "topic": "Meetings",
+    "level": 1
+  },
+  {
+    "he": "ניסוי A/B",
+    "en": "A/B test",
+    "topic": "Finance",
+    "level": 1
+  },
+  {
+    "he": "אנליטיקה",
+    "en": "analytics",
+    "topic": "Finance",
+    "level": 1
+  },
+  {
+    "he": "היקף הפרויקט",
+    "en": "project scope",
+    "topic": "Finance",
+    "level": 1
+  },
+  {
+    "he": "מפת דרכים",
+    "en": "roadmap",
+    "topic": "Sales",
+    "level": 1
+  },
+  {
+    "he": "יוזמה",
+    "en": "initiative",
+    "topic": "Workplace",
+    "level": 1
+  },
+  {
+    "he": "מדדי ביצוע",
+    "en": "KPIs",
+    "topic": "Product",
+    "level": 3
+  },
+  {
+    "he": "קריטריונים לקבלה",
+    "en": "acceptance criteria",
+    "topic": "Product",
+    "level": 1
+  },
+  {
+    "he": "חסמים",
+    "en": "blockers",
+    "topic": "Security",
+    "level": 3
+  },
+  {
+    "he": "חלון תחזוקה",
+    "en": "maintenance window",
+    "topic": "Finance",
+    "level": 3
+  },
+  {
+    "he": "יהול תורים",
+    "en": "queue management",
+    "topic": "Finance",
+    "level": 2
+  },
+  {
+    "he": "הקשחה",
+    "en": "hardening",
+    "topic": "Product",
+    "level": 1
+  },
+  {
+    "he": "פגיעות",
+    "en": "vulnerability",
+    "topic": "Product",
+    "level": 2
+  },
+  {
+    "he": "בדיקת חדירות",
+    "en": "penetration test",
+    "topic": "Workplace",
+    "level": 3
+  },
+  {
+    "he": "טופולוגיה",
+    "en": "topology",
+    "topic": "Security",
+    "level": 3
+  },
+  {
+    "he": "זמינות גבוהה",
+    "en": "high availability",
+    "topic": "Security",
+    "level": 1
+  },
+  {
+    "he": "שכבת רשת",
+    "en": "network layer",
+    "topic": "Development",
+    "level": 3
+  },
+  {
+    "he": "כשל נקודה יחידה",
+    "en": "single point of failure",
+    "topic": "Finance",
+    "level": 2
+  },
+  {
+    "he": "מופע",
+    "en": "instance",
+    "topic": "Project Management",
+    "level": 2
+  },
+  {
+    "he": "שירות מנוהל",
+    "en": "managed service",
+    "topic": "Emails",
+    "level": 1
+  },
+  {
+    "he": "ענן פרטי",
+    "en": "private cloud",
+    "topic": "Project Management",
+    "level": 3
+  },
+  {
+    "he": "ענן ציבורי",
+    "en": "public cloud",
+    "topic": "Development",
+    "level": 3
+  },
+  {
+    "he": "ענן היברידי",
+    "en": "hybrid cloud",
+    "topic": "Emails",
+    "level": 2
+  },
+  {
+    "he": "רשת הפצה",
+    "en": "CDN",
+    "topic": "Meetings",
+    "level": 2
+  },
+  {
+    "he": "השהיה",
+    "en": "latency",
+    "topic": "Cloud",
+    "level": 1
+  },
+  {
+    "he": "רוחב פס",
+    "en": "bandwidth",
+    "topic": "Development",
+    "level": 3
+  },
+  {
+    "he": "קנה מידה",
+    "en": "scale",
+    "topic": "Security",
+    "level": 3
+  },
+  {
+    "he": "יעילות",
+    "en": "efficiency",
+    "topic": "Development",
+    "level": 1
+  },
+  {
+    "he": "תרחיש שימוש",
+    "en": "use case",
+    "topic": "Security",
+    "level": 3
+  },
+  {
+    "he": "מניהול תצורה כקוד",
+    "en": "infrastructure as code",
+    "topic": "Finance",
+    "level": 1
+  },
+  {
+    "he": "מחזור פיתוח",
+    "en": "development cycle",
+    "topic": "Cloud",
+    "level": 3
+  },
+  {
+    "he": "אינטגרציה",
+    "en": "integration",
+    "topic": "Workplace",
+    "level": 1
+  },
+  {
+    "he": "תלות הדדית",
+    "en": "interdependency",
+    "topic": "Emails",
+    "level": 3
+  },
+  {
+    "he": "תיעדוף מחדש",
+    "en": "reprioritization",
+    "topic": "Product",
+    "level": 2
+  },
+  {
+    "he": "מניעה",
+    "en": "prevention",
+    "topic": "Finance",
+    "level": 3
+  },
+  {
+    "he": "גילוי",
+    "en": "detection",
+    "topic": "Cloud",
+    "level": 3
+  },
+  {
+    "he": "תגובה",
+    "en": "response",
+    "topic": "Sales",
+    "level": 2
+  },
+  {
+    "he": "התאוששות",
+    "en": "recovery",
+    "topic": "Product",
+    "level": 2
+  },
+  {
+    "he": "רישוי",
+    "en": "licensing",
+    "topic": "Meetings",
+    "level": 2
+  },
+  {
+    "he": "תאימות",
+    "en": "compliance",
+    "topic": "Project Management",
+    "level": 3
+  },
+  {
+    "he": "GDPR",
+    "en": "GDPR",
+    "topic": "Product",
+    "level": 1
+  },
+  {
+    "he": "SLA",
+    "en": "SLA",
+    "topic": "Product",
+    "level": 1
+  },
+  {
+    "he": "SOW",
+    "en": "SOW",
+    "topic": "Cloud",
+    "level": 1
+  },
+  {
+    "he": "RFP",
+    "en": "RFP",
+    "topic": "Cloud",
+    "level": 3
+  },
+  {
+    "he": "POC",
+    "en": "POC",
+    "topic": "Sales",
+    "level": 2
+  },
+  {
+    "he": "KPIs",
+    "en": "KPIs",
+    "topic": "Meetings",
+    "level": 2
+  },
+  {
+    "he": "OKRs",
+    "en": "OKRs",
+    "topic": "Security",
+    "level": 2
+  }
+]
